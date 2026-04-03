@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "version": "3.10.1",
-=======
   "version": "3.10.3",
->>>>>>> origin/claude/read-file-continue-QJZjE
   "url": "https://raw.githubusercontent.com/frankiehex/H_OTA/main/firmware.ota.bin",
   "device_id": "932103303"
 }
