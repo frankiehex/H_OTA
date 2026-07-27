@@ -1,4 +1,5 @@
 {
   "version": "1.0.37",
-  "url": "https://raw.githubusercontent.com/frankiehex/H_OTA/main/module.firmware.bin"
+  "url": "https://raw.githubusercontent.com/frankiehex/H_OTA/main/module.firmware.bin",
+  "factory_url": "https://raw.githubusercontent.com/frankiehex/H_OTA/main/module.factory.bin"
 }
